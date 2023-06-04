@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @devu-codes
-- 👀 I’m interested in **Machine Leaning. 
-- 💞️ I’m looking to collaborate on ML/DL models. 
+- 👀 I’m interested in **Machine Leaning/Backend Developer. 
 - 📫 How to reach me **devanshpandey977@gmail.com 
 
 <!---
